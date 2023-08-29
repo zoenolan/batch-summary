@@ -1,0 +1,1 @@
+give me the title and keywords that correspond to the topics covered in a comma separated list for the following list of titles
